@@ -61,5 +61,5 @@ A ride-sharing web application that reduces travel costs by letting users share 
 <p align="left">
   <a href="https://linkedin.com/in/prateek-naik">LinkedIn</a> •
   <a href="mailto:prateekn785@gmail.com">Email</a> •
-  <a href="YOUR-PORTFOLIO-LINK">Portfolio</a>
+  <a href="https://prateeknaik.netlify.app">Portfolio</a>
 </p>
